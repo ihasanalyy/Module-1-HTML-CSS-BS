@@ -1,2 +1,2 @@
-# Module-1-HTML-CSS-BS
+# Module-1-HTML-CSS-Bootstrap
 Assignment for practices
